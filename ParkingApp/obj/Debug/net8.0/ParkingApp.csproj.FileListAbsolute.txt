@@ -31,3 +31,5 @@ C:\Users\HP-Dator\CodeProjects\ParkingApp\ParkingApp\obj\Debug\net8.0\refint\Par
 C:\Users\HP-Dator\CodeProjects\ParkingApp\ParkingApp\obj\Debug\net8.0\ParkingApp.pdb
 C:\Users\HP-Dator\CodeProjects\ParkingApp\ParkingApp\obj\Debug\net8.0\ParkingApp.genruntimeconfig.cache
 C:\Users\HP-Dator\CodeProjects\ParkingApp\ParkingApp\obj\Debug\net8.0\ref\ParkingApp.dll
+C:\Users\HP-Dator\CodeProjects\ParkingApp\ParkingApp\obj\Debug\net8.0\ParkingApp.sourcelink.json
+C:\Users\HP-Dator\CodeProjects\ParkingApp\ParkingApp\bin\Debug\net8.0\users.json

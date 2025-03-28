@@ -1,0 +1,29 @@
+[
+  {
+    "UserID": 1,
+    "Username": "hello1@gmail.com",
+    "Password": "hello1",
+    "Firstname": "Sara",
+    "Lastname": "Larsson",
+    "Licenseplate": "SDK123",
+    "Balance": 0
+  },
+  {
+    "UserID": 2,
+    "Username": "hello2@gmail.com",
+    "Password": "hello2",
+    "Firstname": "Moa",
+    "Lastname": "Melin",
+    "Licenseplate": "JFK123",
+    "Balance": 0
+  },
+  {
+    "UserID": 3,
+    "Username": "hello3@gmail.com",
+    "Password": "hello3",
+    "Firstname": "Bo",
+    "Lastname": "Bok",
+    "Licenseplate": "ABC123",
+    "Balance": 0
+  }
+]

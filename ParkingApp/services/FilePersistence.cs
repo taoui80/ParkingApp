@@ -1,4 +1,3 @@
-using System;
 using System.Text.Json;
 using ParkingApp.models;
 
@@ -34,4 +33,5 @@ public class FilePersistence
         var json = JsonSerializer.Serialize(parkingSessions, new JsonSerializerOptions { WriteIndented = true });
         File.WriteAllText(ParkingSessionsFilePath, json);
     }
+    
 }
